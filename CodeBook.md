@@ -31,7 +31,37 @@ Transformations perfomed to clean up the data
 
 
 
-UCI HAR variables calculated
+Calculated UCI HAR variables 
 ----------------------------------
+
+tBodyAcc.mean...X 
+tBodyAcc.mean...Y 
+tBodyAcc.mean...Z 
+tBodyAcc.std...X 
+tBodyAcc.std...Y 
+tBodyAcc.std...Z 
+tGravityAcc.mean...X 
+tGravityAcc.mean...Y 
+tGravityAcc.mean...Z 
+tGravityAcc.std...X 
+tGravityAcc.std...Y 
+tGravityAcc.std...Z 
+tBodyAccJerk.mean...X 
+tBodyAccJerk.mean...Y 
+tBodyAccJerk.mean...Z 
+tBodyAccJerk.std...X 
+tBodyAccJerk.std...Y 
+tBodyAccJerk.std...Z 
+tBodyGyro.mean...X 
+tBodyGyro.mean...Y 
+tBodyGyro.mean...Z 
+tBodyGyro.std...X 
+tBodyGyro.std...Y 
+tBodyGyro.std...Z 
+tBodyGyroJerk.mean...X 
+
+----------------------------------
+
+
  
   
